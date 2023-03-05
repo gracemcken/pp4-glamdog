@@ -64,7 +64,7 @@ Deployed Site:
 
 Bug | Status | Fix | Images of bug
 ----|--------|-----|--------------
-Unable to migrate when connecting elephantsql database to project | Being worked on | - | ![migrate-bug](readme_docs/screenshots/migrate-bug.1.png)![migrate-bug2](readme_docs/screenshots/migrate-bug.2.png)
+Unable to migrate when connecting elephantsql database to project | FIXED | Had to manually install zlib onto mac, cloned the project to a new folder and created a new venv. | ![migrate-bug](readme_docs/screenshots/migrate-bug.1.png)![migrate-bug2](readme_docs/screenshots/migrate-bug.2.png)
 ## Known Issues
 
 
