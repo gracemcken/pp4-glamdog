@@ -1,5 +1,6 @@
 from django.shortcuts import render
 
+
 # Create your views here.
 
 
@@ -8,7 +9,8 @@ def home_view(request):
 
 
 def register_view(request):
-    return render(request, "pages/register.html", {})
+
+    return render(request, "accounts/register.html", {})
 
 
 def about_view(request):
