@@ -5,9 +5,6 @@
 {% block head_title %}{% trans "Signup" %}{% endblock %}
 
 {% block content %}
-<h1>{% trans "Sign Up" %}</h1>
-
-<p>{% blocktrans %}Already have an account? Then please <a href="{{ login_url }}">sign in</a>.{% endblocktrans %}</p>
 {% comment %} Code based on component on tailwindcomponents.com. Refer to README for credit. {% endcomment %}
 		<!-- Container -->
 		<div class="container mx-auto">
@@ -104,7 +101,7 @@
 							<div class="text-center">
 								<a
 									class="inline-block text-sm text-blue-500 align-baseline hover:text-blue-800"
-									href="./index.html"
+									href="{{ login_url }}"
 								>
 									Already have an account? Login!
 								</a>
