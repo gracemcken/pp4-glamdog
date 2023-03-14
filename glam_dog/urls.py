@@ -25,5 +25,5 @@ urlpatterns = [
     path('about/', views.about_view, name='about'),
     path('contact/', views.contact_view, name='contact'),
     path('admin/', admin.site.urls),
-    path('accounts/', include('allauth.urls'), name='signup'),
+    path('signup/', include('allauth.urls'), name='signup'),
 ]
