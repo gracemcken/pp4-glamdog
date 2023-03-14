@@ -8,9 +8,9 @@ def home_view(request):
     return render(request, "pages/home.html", {})
 
 
-def register_view(request):
+def signup_view(request):
 
-    return render(request, "accounts/register.html", {})
+    return render(request, "allauth/account/signup.html", {})
 
 
 def about_view(request):
