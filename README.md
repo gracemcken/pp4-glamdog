@@ -89,6 +89,7 @@ Unable to migrate when connecting elephantsql database to project | FIXED | Had 
 # Credits
 ## Code
 - Integrating Tailwind CSS with Django video [here](https://www.youtube.com/watch?v=lsQVukhwpqQ) & source code adapted found [here](https://github.com/codingforentrepreneurs/django-tailwindcss)
+- Form CSS was altered from [this](https://tailwindcomponents.com/component/sb-admin-2-forgot-password-page) source code.
 
 ### Version Control
 *   Git was used as the version control software. Commands such as git add ., git status, git commit and git push were used to add, save, stage and push the code to the GitHub repository where the source code is stored.
