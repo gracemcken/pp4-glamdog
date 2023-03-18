@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Custom Classes */
+
+.image {
+  background-image: url("https://res.cloudinary.com/dqjkiar31/image/upload/v1678753453/pp4/pooch_pqf5bq.jpg");
+}
