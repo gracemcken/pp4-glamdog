@@ -11,6 +11,7 @@
   - [Technologies used](#technologies-used)
 - [UX](#ux)
   - [Target Audience](#target-audience)
+  - [Wireframes](#wireframes)
 - [Features](#features)
   - [Existing Features](#existing-features)
   - [Future Features](#future-features)
@@ -40,9 +41,43 @@ Deployed Site:
 - [GitHub](https://github.com/) as a remote repository.
 - [Heroku](https://heroku.com) to deploy the website.
 - [Visual Studio Code](https://code.visualstudio.com/) as a local IDE & repository.
--
+
 # UX
 ## Target Audience
+
+## Wireframes
+<details>
+           <summary>Initial Project Wireframes</summary>
+           <details>
+           <summary>Base Website</summary>
+<p>
+          <img src="readme_docs/wireframes/home_page.png">
+          <br>
+          <img src="readme_docs/wireframes/book.png">
+          <br>
+          <img src="readme_docs/wireframes/services.png">
+          <br>
+          <img src="readme_docs/wireframes/contact.png">
+          <br>
+          <img src="readme_docs/wireframes/grooming.png">
+          <br>
+          <img src="readme_docs/wireframes/kenneling.png">
+          </p>
+          </details>
+          <details>
+          <summary>Profile Pages</summary>
+        <p>
+          <img src="readme_docs/wireframes/create.png">
+          <br>
+          <img src="readme_docs/wireframes/profile_booking.png">
+          <br>
+          <img src="readme_docs/wireframes/profile_booking_upcoming.png">
+          <br>
+          <img src="readme_docs/wireframes/profile_pets.png">
+      </p>
+</details>
+</details>
+
 
 
 
