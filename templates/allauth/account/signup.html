@@ -1,8 +1,5 @@
 {% extends "base.html" %}
 {% load i18n %}
-{% block head_title %}
-    {% trans "Signup" %}
-{% endblock body %}
 {% block content %}
     {% comment %} Code based on component on tailwindcomponents.com. Refer to README for credit. {% endcomment %}
     <!-- Container -->
@@ -87,4 +84,4 @@
                    value="{{ redirect_field_value }}"/>
         {% endif %}
     </form>
-{% endblock body %}
+{% endblock content %}
